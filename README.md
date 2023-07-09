@@ -1,6 +1,6 @@
 # Personality Prediction using Myers Briggs Type Indicator
 
-by **Dolly Sidar**, **Vidhi Sharma**, and **Udit Bhati**, Machine Learning (CSE343/ECE343) under the guidance of **Dr. Jainendra Shukla** from **Indraprastha Institute of Information Technology, Delhi**.
+by **Arnav Byotra** from **Netaji Subhas University of Technology (NSUT), Delhi**.
 
 ![cover](https://user-images.githubusercontent.com/66681287/154308670-adfc4868-209e-418f-a7f9-d40b0227a15d.png)
 
